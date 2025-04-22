@@ -123,12 +123,12 @@
   <section id="comments">
     <h2>留言區</h2>
     <div class="comment-box">
-      <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdXRrZ5vMXdxTva0NWL4k9U9KtU07ZYL2LgqBnENz2F69lZSw/viewform?embedded=true" width="640" height="780" frameborder="0" marginheight="0" marginwidth="0">載入中…</iframe>
+      <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdXRrZ5vMXdxTva0NWL4k9U9KtU07ZYL2LgqBnENz2F69lZSw/viewform?embedded=true" width="100%" height="780" frameborder="0" marginheight="0" marginwidth="0">載入中…</iframe>
     </div>
   </section>
 
   <footer>
-    <p>&copy; 2025 您的大名 | 保留所有權利</p>
+    <p>&copy; 2025 Goldenbeauty.Mina | 保留所有權利</p>
   </footer>
 </body>
 </html>
