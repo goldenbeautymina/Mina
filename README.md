@@ -47,30 +47,6 @@
       text-align: center;
       padding: 1rem;
     }
-    .comment-box {
-      margin-top: 2rem;
-    }
-    .comment-box textarea {
-      width: 100%;
-      height: 100px;
-      padding: 10px;
-      font-size: 1rem;
-      border-radius: 4px;
-      border: 1px solid #ccc;
-      resize: vertical;
-    }
-    .comment-box button {
-      margin-top: 10px;
-      padding: 10px 20px;
-      background-color: #004466;
-      color: white;
-      border: none;
-      border-radius: 4px;
-      cursor: pointer;
-    }
-    .comment-box button:hover {
-      background-color: #006699;
-    }
   </style>
 </head>
 <body>
@@ -86,7 +62,6 @@
     <a href="#blog">部落格文章</a>
     <a href="#gallery">照片牆</a>
     <a href="#contact">聯絡方式</a>
-    <a href="#comments">留言區</a>
   </nav>
 
   <section id="about">
@@ -120,7 +95,7 @@
   <section id="gallery">
     <h2>照片牆</h2>
     <div class="photo-gallery">
-      <img src="photo1.jpg" alt="作品照片1">
+      <img src="https://imgur.com/a/dyy0asw">
       <img src="photo2.jpg" alt="作品照片2">
       <img src="photo3.jpg" alt="作品照片3">
     </div>
@@ -134,14 +109,6 @@
       <a href="https://www.instagram.com">Instagram</a> ｜ 
       <a href="https://www.github.com">GitHub</a>
     </p>
-  </section>
-
-  <section id="comments">
-    <h2>留言區</h2>
-    <div class="comment-box">
-      <textarea placeholder="歡迎留言... (此區尚未連接後端功能)"></textarea>
-      <button onclick="alert('感謝您的留言！')">送出留言</button>
-    </div>
   </section>
 
   <footer>
