@@ -47,6 +47,14 @@
       text-align: center;
       padding: 1rem;
     }
+    .comment-box {
+      margin-top: 2rem;
+    }
+    .comment-box iframe {
+      width: 100%;
+      height: 600px;
+      border: none;
+    }
   </style>
 </head>
 <body>
@@ -62,6 +70,7 @@
     <a href="#blog">部落格文章</a>
     <a href="#gallery">照片牆</a>
     <a href="#contact">聯絡方式</a>
+    <a href="#comments">留言區</a>
   </nav>
 
   <section id="about">
@@ -95,9 +104,9 @@
   <section id="gallery">
     <h2>照片牆</h2>
     <div class="photo-gallery">
-      <img src="https://github.com/goldenbeautymina/Mina/blob/main/photo3.jpg" alt="作品照片1">
-      <img src="images/photo2.jpg" alt="作品照片2">
-      <img src="images/photo3.jpg" alt="作品照片3">
+      <img src="photo1.jpg" alt="作品照片1">
+      <img src="photo2.jpg" alt="作品照片2">
+      <img src="photo3.jpg" alt="作品照片3">
     </div>
   </section>
 
@@ -109,6 +118,13 @@
       <a href="https://www.instagram.com">Instagram</a> ｜ 
       <a href="https://www.github.com">GitHub</a>
     </p>
+  </section>
+
+  <section id="comments">
+    <h2>留言區</h2>
+    <div class="comment-box">
+      <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdXRrZ5vMXdxTva0NWL4k9U9KtU07ZYL2LgqBnENz2F69lZSw/viewform?embedded=true">載入中…</iframe>
+    </div>
   </section>
 
   <footer>
