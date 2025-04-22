@@ -95,7 +95,7 @@
   <section id="gallery">
     <h2>照片牆</h2>
     <div class="photo-gallery">
-      <img src="https://imgur.com/a/dyy0asw">
+      <img src="https://i.imgur.com/SdaJzBe.png">
       <img src="photo2.jpg" alt="作品照片2">
       <img src="photo3.jpg" alt="作品照片3">
     </div>
