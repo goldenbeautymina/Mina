@@ -95,9 +95,9 @@
   <section id="gallery">
     <h2>照片牆</h2>
     <div class="photo-gallery">
-      <img src="photo1.jpg" alt="作品照片1">
-      <img src="photo2.jpg" alt="作品照片2">
-      <img src="photo3.jpg" alt="作品照片3">
+      <img src="images/photo1.jpg" alt="作品照片1">
+      <img src="images/photo2.jpg" alt="作品照片2">
+      <img src="images/photo3.jpg" alt="作品照片3">
     </div>
   </section>
 
