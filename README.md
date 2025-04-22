@@ -95,7 +95,7 @@
   <section id="gallery">
     <h2>照片牆</h2>
     <div class="photo-gallery">
-      <img src="images/photo1.jpg" alt="作品照片1">
+      <img src="https://github.com/goldenbeautymina/Mina/blob/main/photo3.jpg" alt="作品照片1">
       <img src="images/photo2.jpg" alt="作品照片2">
       <img src="images/photo3.jpg" alt="作品照片3">
     </div>
